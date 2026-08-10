@@ -18,4 +18,6 @@ Todo fue realizado en Google Colab, cuyo archivo .ipynb se encuentra en el repos
 
 El archivo .ipynb en el repositorio puede ser descargado y subido al entorno de Google Colab. Una vez abierto, clickear "Ejecutar todas".
 
+Las primeras celdas determinan los paquetes a utilizar en el trabajo y la semilla generada para replicabilidad.
+
 Los parámetros utilizados (cantidad de observaciones, cantidad de simulaciones, valor de parámetros originales, porcentajes de contaminación, etc.) pueden ser modificados en las celdas con título "Parámetros".
